@@ -2,8 +2,8 @@
 
 ## Semana Omnistack 11
 
-### Aplicação Web desenvolvida na Semana Omnistack 11 da RocketSeat, para conectar ONGs com pessoas que queiram ajudá-las, onde ONGs fazem um cadastro, e podem incluir casos para que usuários possam contribuir com um valor.
-### O foco do projeto foi apresentar a utilização do Node.js para o back-end, React para o Front-End e React Native para o Mobile.
+#### Aplicação Web desenvolvida na Semana Omnistack 11 da RocketSeat, para conectar ONGs com pessoas que queiram ajudá-las, onde ONGs fazem um cadastro, e podem incluir casos para que usuários possam contribuir com um valor.
+#### O foco do projeto foi apresentar a utilização do Node.js para o back-end, React para o Front-End e React Native para o Mobile.
 
 ## Built With
 * [Node.js](https://nodejs.org/en/) - Back-end
